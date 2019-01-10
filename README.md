@@ -8,4 +8,4 @@ Here are the best UI fonts that you may use in your next website or mobile app.
 
 
 
-<img src="https://github.com/gabriel-TheCode/UI-fonts-for-website-mobile-apps/blob/master/public/cover-typography.png" alt="cover">
+<img src="https://github.com/gabriel-TheCode/UI-fonts-for-website-mobile-apps/blob/master/cover-typography.png" alt="cover">
